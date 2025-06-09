@@ -1,0 +1,10 @@
+build
+iso
+avery.iso
+.zig-cache
+zig-out
+.vscode
+disk.img
+.DS_Store
+mOS.iso
+disk.img

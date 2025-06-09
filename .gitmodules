@@ -1,0 +1,3 @@
+[submodule "avery"]
+	path = avery
+	url = https://github.com/maxvdec/avery.git
