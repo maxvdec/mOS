@@ -8,3 +8,4 @@ disk.img
 .DS_Store
 mOS.iso
 disk.img
+*.o
